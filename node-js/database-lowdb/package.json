@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "azkadev",
   "license": "ISC",
   "dependencies": {
     "lowdb": "^3.0.0"
