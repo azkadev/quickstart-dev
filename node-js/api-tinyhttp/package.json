@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "azkadev",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@tinyhttp/app": "^2.0.12"
+  }
 }

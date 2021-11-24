@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "azkadev",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.24.0"
+  }
 }
