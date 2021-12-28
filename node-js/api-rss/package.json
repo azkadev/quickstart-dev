@@ -1,0 +1,15 @@
+{
+  "name": "api-fastify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "azkadev",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.24.0"
+  }
+}
