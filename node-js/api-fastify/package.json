@@ -10,6 +10,6 @@
   "author": "azkadev",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^3.24.0"
+    "fastify": "^3.29.4"
   }
 }
